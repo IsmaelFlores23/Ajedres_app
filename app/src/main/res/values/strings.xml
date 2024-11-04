@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Ajedres app</string>
+    <string name="premium">Presiona Aqui para Conventinte en Usuacio Premium</string>
+    <string name="tituloPremium">Obten tu Cuente Premium</string>
+    <string name="beneficio">No mas anuasios</string>
+    <string name="beneficio2"> Intentes ILimitades</string>
+    <string name="beneficio3">Guardar Progreso </string>
+    <string name="costo">50 Lempiras</string>
+    <string name="nivel">Nivel</string>
+    <string name="Mov">Pasos:</string>
+    <string name="tiempo">Tiempo</string>
+    <string name="intentos">Intentos</string>
+    <string name="extras">Extras</string>
+    <string name="borrador">AC</string>
+    <string name="masmenos">+/-</string>
+    <string name="porciento">%</string>
+    <string name="entre">/</string>
+    <string name="num7">7</string>
+    <string name="num4">4</string>
+    <string name="num1">1</string>
+    <string name="num8">8</string>
+    <string name="num5">5</string>
+    <string name="num2">2</string>
+    <string name="num9">9</string>
+    <string name="num6">6</string>
+    <string name="num3">3</string>
+    <string name="multiplicacion">X</string>
+    <string name="menos">-</string>
+    <string name="mas">+</string>
+    <string name="igual">=</string>
+    <string name="num0">0</string>
+    <string name="punto">.</string>
+    <string name="intruc">Selecciones la pieaza que desea Mover </string>
+    <string name="autor">Creado por Lil Gory</string>
+</resources>
